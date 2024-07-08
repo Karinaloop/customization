@@ -1,7 +1,6 @@
 Submodule Loop contains modified content
 diff --git a/Loop/Loop/Models/LoopConstants.swift b/Loop/Loop/Models/LoopConstants.swift
 index a62fc138..56716c25 100644
---- a/Loop/Loop/Models/LoopConstants.swift
 +++ b/Loop/Loop/Models/LoopConstants.swift
 @@ -15,9 +15,9 @@ enum LoopConstants {
      
